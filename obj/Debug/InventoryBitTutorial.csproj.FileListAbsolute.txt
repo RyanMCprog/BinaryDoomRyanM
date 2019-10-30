@@ -1,0 +1,7 @@
+C:\Users\s199052\source\repos\InventoryBitTutorial\InventoryBitTutorial\bin\Debug\InventoryBitTutorial.exe.config
+C:\Users\s199052\source\repos\InventoryBitTutorial\InventoryBitTutorial\bin\Debug\InventoryBitTutorial.exe
+C:\Users\s199052\source\repos\InventoryBitTutorial\InventoryBitTutorial\bin\Debug\InventoryBitTutorial.pdb
+C:\Users\s199052\source\repos\InventoryBitTutorial\InventoryBitTutorial\obj\Debug\InventoryBitTutorial.csprojAssemblyReference.cache
+C:\Users\s199052\source\repos\InventoryBitTutorial\InventoryBitTutorial\obj\Debug\InventoryBitTutorial.csproj.CoreCompileInputs.cache
+C:\Users\s199052\source\repos\InventoryBitTutorial\InventoryBitTutorial\obj\Debug\InventoryBitTutorial.exe
+C:\Users\s199052\source\repos\InventoryBitTutorial\InventoryBitTutorial\obj\Debug\InventoryBitTutorial.pdb
